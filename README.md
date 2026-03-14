@@ -35,10 +35,6 @@ Created a **multi-page Power BI dashboard** including:
 
 ---
 
-## 📊 Dashboard Preview
-!
-
----
 
 ## 💡 Business Insights Derived
 
