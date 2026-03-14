@@ -35,7 +35,10 @@ Created a **multi-page Power BI dashboard** including:
 
 ---
 
+## 📊 Dashboard Preview
+![Retail BI Dashboard](images/retail-analytics.jpg)
 
+---
 ## 💡 Business Insights Derived
 
 **Profit Leakage**  
